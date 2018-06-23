@@ -1,4 +1,4 @@
-# Pestador de Serviços
+# Prestador de Serviços
 
 Criar um sistema de cadastro de prestadores de serviços, apenas serviços serão cadastrados.
 
